@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Mitsu Suchak
 
-#### Hello, I am Mitsu Suchak. I was born in India and living in brussels. I am married and a Mom of 15 month old. I have studied Master in Physics (Electronics & communication) and jumping into programming now.
+Hello, I am Mitsu Suchak. I was born in India and living in brussels. I am married and a Mom of 15 month old. I have studied Master in Physics (Electronics & communication) and jumping into programming now.
 
 # *Skills*
 
